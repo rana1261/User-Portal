@@ -1,0 +1,17 @@
+.icon {
+    padding: 10px;
+    background: black;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  .form-control {
+     border-radius: 0px; 
+  }
+  .searchbtn {
+    border-radius: 0px; 
+ }
+ a, a:hover,a:visited, a:focus {
+    text-decoration:none;
+    
+}
